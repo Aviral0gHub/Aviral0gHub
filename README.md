@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aviral0gHub
-    I m  Deeply passionate for Autonomous
-    Navigation Algorithms like Dijkstra’s.
-    Have worked with Python Java And C
-    (CSV BIN Pandas)
+- 😇 I m  Deeply passionate for Autonomous Navigation Algorithms like Dijkstra’s, Bellman Ford.
+I have worked with Python, Java And C
+(CSV BIN Pandas)
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Why should I share it here ¿
 
