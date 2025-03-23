@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aviral0gHub
-- 😇 I m  Deeply passionate for Autonomous Navigation Algorithms like Dijkstra’s, Bellman Ford.
-I have worked with Python, Java And C
-(CSV BIN Pandas)
+- 😇 I am passionate about autonomous vehicles with a special inclination toward navigation algorithms.
+- Driverless Task Phase Recruit in Formula Manipal.
+- Working with ROS2 Humble Hawksbill, Linux Ubuntu 22.04 and Python.
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: I love to play Bollywood melodies on my keyboard..
+- ⚡ Fun fact: I love to play Bollywood on my keyboard..
 
 <!---
 Aviral0gHub/Aviral0gHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
