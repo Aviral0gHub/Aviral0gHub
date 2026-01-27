@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width=50% alt="We Heart It">
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width=60% alt="We Heart It">
 </div>
 
 ---
@@ -13,6 +13,7 @@
 - Focused on **CNNs, RNNs, and Transformer architectures** 
 - Passionate about **Computer Vision**, especially detection & perception systems
 - Currently diving deeper into **advanced DL architectures & research-oriented projects**
+- Also I found that GIF cutee so I have it in my githubb
 
 ---
 
