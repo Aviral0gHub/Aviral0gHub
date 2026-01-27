@@ -10,33 +10,33 @@
 
 ## 🧠 About Me
 - Learning **Applied Deep Learning & Neural Networks**
-- 🧩 Focused on **CNNs, RNNs, and Transformer architectures**
+- Focused on **CNNs, RNNs, and Transformer architectures**
 - Passionate about **Computer Vision**, especially detection & perception systems
-- 🌱 Currently diving deeper into **advanced DL architectures & research-oriented projects**
+- Currently diving deeper into **advanced DL architectures & research-oriented projects**🌱
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Deep Learning & ML
+### Deep Learning & ML
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /></a>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
 </p>
 
-### 👁️ Computer Vision & Robotics
+### Computer Vision & Robotics
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=opencv,ros" /></a>
 </p>
 
-### ⚙️ Data & Utilities
+### Data & Utilities
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=numpy,pandas,git" /></a>
 </p>
 
 ---
 
-## 🔬 Areas of Interest
+## Areas of Interest
 - Deep Neural Networks & Representation Learning  
 - Computer Vision & Perception  
 - Transformers & Sequence Models  
@@ -45,7 +45,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
