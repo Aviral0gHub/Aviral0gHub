@@ -3,18 +3,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="85%" alt="Vibe GIF">
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="350" alt="Vibe GIF" />
+  
+  <div align="left">
+    <h3>About Me</h3>
+    <ul>
+      <li>Learning <b>Applied Deep Learning</b></li>
+      <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
+      <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
+      <li>Currently working on a research oriented DL project</li>
+    </ul>
+  </div>
 </p>
 
-<div align="center">
-  <h3>About Me</h3>
-  <p>
-   <li>Learning <b>Applied Deep Learning</b></li>
-   <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
-   <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
-   <li>Currently working on a research oriented DL project </li>
-  </p>
-</div>
+<br clear="both">
 ---
 ## 🛠️ Tech Stack
 
