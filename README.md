@@ -1,41 +1,55 @@
-<h1 align="center">Hi 👋, I'm Aviral Nigam</h1>
-<h3 align="center"> Deep Learning Enthusiast </h3>
+<h1 align="center">Hi, I'm Aviral Nigam</h1>
+<h3 align="center">Deep Learning Enthusiast | Computer Vision | Autonomous Systems</h3>
 
 ---
 
-### 🧠 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" alt="Developer Sticker" width="250"/>
+</p>
+
+---
+
+## 🧠 About Me
 - 🔬 Strong interest in **Deep Learning & Neural Networks**
 - 🧩 Focused on **CNNs, RNNs, and Transformer architectures**
 - 👁️ Passionate about **Computer Vision**, especially detection & perception systems
-- 🤖 Apply deep learning to **Autonomous & Robotic Systems** using **ROS**
+- 🤖 Applying deep learning to **Autonomous & Robotic Systems** with **ROS**
 - 🔥 Enjoy building, training, and experimenting with **end-to-end DL models**
 - 🌱 Currently diving deeper into **advanced DL architectures & research-oriented projects**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 🧠 Deep Learning & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Deep Learning & ML
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/>
+</p>
 
-#### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+### Computer Vision
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50" height="50"/>
+</p>
 
-#### 🤖 Intelligent & Autonomous Systems
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+### Intelligent & Autonomous Systems
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
+</p>
 
-#### 📊 Data & Utilities
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Data & Utilities
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-### 🔬 Areas of Interest
+## 🔬 Areas of Interest
 - Deep Neural Networks & Representation Learning  
 - Computer Vision & Perception  
 - Transformers & Sequence Models  
@@ -44,10 +58,19 @@
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/aviral-nigam-a0b469271  
-- 📧 Email: nigamaviral21@gmail.com  
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
+  </a>
+  <a href="mailto:nigamaviral21@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail.png" width="50"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Focused on depth over breadth. Building intelligent systems with deep learning.**
+<p align="center">
+  <b>Focused on depth over breadth. Building intelligent systems with deep learning.</b>
+</p>
+
