@@ -30,7 +30,11 @@
 
 ### Libraries
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,matplotlib,seaborn" /></a>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://skillicons.dev/icons?i=seaborn" />
 </p>
 
 ### Languages
