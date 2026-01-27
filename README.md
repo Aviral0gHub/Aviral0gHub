@@ -5,12 +5,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm9idm04N245Z3RwaWJ3eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP9636sY6C/giphy.gif" width="400">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmRycm9idm04N245Z3RwaWJ3eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP9636sY6C/giphy.gif" width="550">
+</p>
 ---
 
 ## About Me
 - Learning **Applied Deep Learning & Neural Networks**
-- Focused on **CNNs, RNNs, and Transformer architectures** 🌱
+- Focused on **CNNs, RNNs, and Transformer architectures** 
 - Passionate about **Computer Vision**, especially detection & perception systems
 - Currently diving deeper into **advanced DL architectures & research-oriented projects**
 
