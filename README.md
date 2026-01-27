@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-391e-430c-bbca-e01866cf173a.gif" width="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm9idm04N245Z3RwaWJ3eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP9636sY6C/giphy.gif" width="400">
 </p>
-
 
 ---
 
@@ -22,6 +21,7 @@
 ### 🚀 Deep Learning & ML
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /></a>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
 </p>
 
 ### 👁️ Computer Vision & Robotics
