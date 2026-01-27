@@ -1,50 +1,40 @@
-<h1 align="center">Hi, I'm Aviral Nigam</h1>
-<h3 align="center">Deep Learning Enthusiast | Computer Vision | Autonomous Systems</h3>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" alt="Developer Sticker" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-391e-430c-bbca-e01866cf173a.gif" width="350">
+</p>
+
+<p align="center">
+  <b>⚡ Focused on depth over breadth. Building intelligent systems with deep learning.</b>
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🔬 Strong interest in **Deep Learning & Neural Networks**
+- Learning **Applied Deep Learning & Neural Networks**
 - 🧩 Focused on **CNNs, RNNs, and Transformer architectures**
-- 👁️ Passionate about **Computer Vision**, especially detection & perception systems
-- 🤖 Applying deep learning to **Autonomous & Robotic Systems** with **ROS**
-- 🔥 Enjoy building, training, and experimenting with **end-to-end DL models**
+- Passionate about **Computer Vision**, especially detection & perception systems
 - 🌱 Currently diving deeper into **advanced DL architectures & research-oriented projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Deep Learning & ML
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/>
+### 🚀 Deep Learning & ML
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /></a>
 </p>
 
-### Computer Vision
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50" height="50"/>
+### 👁️ Computer Vision & Robotics
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=opencv,ros" /></a>
 </p>
 
-### Intelligent & Autonomous Systems
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
-</p>
-
-### Data & Utilities
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+### ⚙️ Data & Utilities
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=numpy,pandas,git" /></a>
 </p>
 
 ---
@@ -61,16 +51,16 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:nigamaviral21@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail.png" width="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Focused on depth over breadth. Building intelligent systems with deep learning.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=60&section=footer" />
 </p>
-
