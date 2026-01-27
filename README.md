@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Nigam</h1>
-<h3 align="center">Deep Learning Enthusiast | Applied Neural Networks & Intelligent Systems</h3>
+<h3 align="center"> Deep Learning Enthusiast </h3>
 
 ---
 
