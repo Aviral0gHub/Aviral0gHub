@@ -2,56 +2,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width=55% alt="We Heart It">
-</div>
-
----
-
-## About Me
-- Learning **Applied Deep Learning & Neural Networks**
-- Focused on **CNNs, RNNs, and Transformer architectures** 
-- Passionate about **Computer Vision**, especially detection & perception systems
-- Currently diving deeper into **advanced DL architectures & research-oriented projects**
-- Also I found that GIF cutee so I have it in my githubb
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="100%" alt="We Heart It">
+    </td>
+    <td width="50%" valign="top">
+      <h3> About Me</h3>
+      <ul>
+        <li>Learning <b>Applied Deep Learning</b></li>
+        <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
+        <li>Passionate about <b>Computer Vision</b> perception</li>
+        <li>Diving into <b>Research-oriented projects</b></li>
+        <li><i>Just adding some cute vibes to the code!</i> ✨</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Deep Learning & Computer Vision
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,c,java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros" /></a>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48" />
 </p>
 
-### Deep Learning & ML
+### Data Science & Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></a>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-</p>
-
-### Data Analytics
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" /></a>
-</p>
-
-### Computer Vision & Robotics
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=opencv,ros" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,c,java,sklearn,numpy,pandas" /></a>
 </p>
 
 ---
 
-## Areas of Interest
-- Deep Neural Networks & Representation Learning  
-- Computer Vision & Perception  
-- Transformers & Sequence Models  
-- Vision for Autonomous Systems  
-- Research-driven ML experimentation  
+##  Research Interests
+- **Neural Networks:** Representation Learning & Sequence Models
+- **Vision:** Perception for Autonomous Systems
+- **Experimentation:** Research-driven ML pipelines
 
 ---
 
-##  Connect with me here !!
+##  Connect with meee
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -61,8 +54,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=60&section=footer" />
