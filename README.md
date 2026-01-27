@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-![We Heart It](https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="350" alt="We Heart It">
+</div>
 
 ---
 
