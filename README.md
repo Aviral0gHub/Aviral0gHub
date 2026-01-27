@@ -30,11 +30,11 @@
 
 ### Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-  <img src="https://skillicons.dev/icons?i=seaborn" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Languages
