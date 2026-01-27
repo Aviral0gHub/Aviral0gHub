@@ -12,7 +12,7 @@
       <ul>
         <li>Learning <b>Applied Deep Learning</b></li>
         <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
-        <li>Passionate about <b>Computer Vision</b> perception</li>
+        <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
         <li>Currently working on a research oriented DL project </li>
       </ul>
     </td>
