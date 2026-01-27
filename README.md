@@ -39,7 +39,7 @@
 ##  Research Interests
 - **Neural Networks:** Representation Learning & Sequence Models
 - **Vision:** Perception for Autonomous Systems
-- **Experimentation:** Research-driven ML pipelines
+- **Experimentation:** Research-driven Deep Learning pipelines
 
 ---
 
