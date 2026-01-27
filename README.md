@@ -3,35 +3,42 @@
 </h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" width="100" />
+  <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm9idm04N245Z3RwaWJ3eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP9636sY6C/giphy.gif" width="400">
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 - Learning **Applied Deep Learning & Neural Networks**
-- Focused on **CNNs, RNNs, and Transformer architectures**
+- Focused on **CNNs, RNNs, and Transformer architectures** 🌱
 - Passionate about **Computer Vision**, especially detection & perception systems
-- Currently diving deeper into **advanced DL architectures & research-oriented projects**🌱
+- Currently diving deeper into **advanced DL architectures & research-oriented projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,c,java" /></a>
+</p>
+
 ### Deep Learning & ML
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></a>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+</p>
+
+### Data Analytics
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" /></a>
 </p>
 
 ### Computer Vision & Robotics
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=opencv,ros" /></a>
-</p>
-
-### Data & Utilities
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=numpy,pandas,git" /></a>
 </p>
 
 ---
@@ -45,7 +52,7 @@
 
 ---
 
-##  Connect With Me
+##  Connect with me here !!
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
