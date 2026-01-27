@@ -50,7 +50,7 @@
 
 ## GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aviral0gHub&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aviral0gHub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
