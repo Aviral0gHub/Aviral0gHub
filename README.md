@@ -14,7 +14,7 @@
         <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
         <li>Passionate about <b>Computer Vision</b> perception</li>
         <li>Diving into <b>Research-oriented projects</b></li>
-        <li><i>Just adding some cute vibes to the code!</i> ✨</li>
+        <li><i>Also like to add lofi vibess to my code!</i> ✨</li>
       </ul>
     </td>
   </tr>
