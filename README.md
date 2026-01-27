@@ -20,7 +20,6 @@
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Deep Learning & Computer Vision
@@ -29,11 +28,20 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48" />
 </p>
 
-### Data Science & Languages
+### Libraries
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,c,java,sklearn,numpy,pandas" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,matplot,seaborn" /></a>
 </p>
 
+### Languages
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,java" /></a>
+</p>
+
+### Environment & Tools
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,github,vscode" /></a>
+</p>
 ---
 
 ##  Research Interests
