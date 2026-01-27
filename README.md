@@ -6,9 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-391e-430c-bbca-e01866cf173a.gif" width="350">
 </p>
 
-<p align="center">
-  <b>⚡ Focused on depth over breadth. Building intelligent systems with deep learning.</b>
-</p>
 
 ---
 
