@@ -2,23 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="100%" alt="We Heart It">
-    </td>
-    <td width="50%" valign="top">
-      <h3> About Me</h3>
-      <ul>
-        <li>Learning <b>Applied Deep Learning</b></li>
-        <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
-        <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
-        <li>Currently working on a research oriented DL project </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="85%" alt="Vibe GIF">
+</p>
 
+<div align="center">
+  <h3>About Me</h3>
+  <p>
+   <li>Learning <b>Applied Deep Learning</b></li>
+   <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
+   <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
+   <li>Currently working on a research oriented DL project </li>
+  </p>
+</div>
 ---
 ## 🛠️ Tech Stack
 
