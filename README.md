@@ -13,7 +13,7 @@
         <li>Learning <b>Applied Deep Learning</b></li>
         <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
         <li>Passionate about <b>Computer Vision</b> perception</li>
-        <li>Working on some <b>Research-oriented projects</b></li>
+        <li>Currently working on a research oriented project </li>
       </ul>
     </td>
   </tr>
