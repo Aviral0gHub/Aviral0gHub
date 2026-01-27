@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm9idm04N245Z3RwaWJ3eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP9636sY6C/giphy.gif" width="400">
-</p>
+![We Heart It](https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f)
 
 ---
 
