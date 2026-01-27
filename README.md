@@ -14,7 +14,6 @@
         <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
         <li>Passionate about <b>Computer Vision</b> perception</li>
         <li>Diving into <b>Research-oriented projects</b></li>
-        <li><i>Also like to add lofi vibess to my code!</i> ✨</li>
       </ul>
     </td>
   </tr>
@@ -53,6 +52,10 @@
   <a href="mailto:nigamaviral21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <i>Lofi music and rains make me feel good !</i> ✨
 </p>
 
 <p align="center">
