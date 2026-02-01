@@ -72,12 +72,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://holopin.io/api/user/board/last?user=aviral0ghub" alt="Latest Holopin" />
-</p>
 
 <p align="center">
-  <i>Lofi music and rains make me feel good !</i> ✨
+  <i>Listening to Lofi music in the monsoon rains is a priceless therapyyy !!  !</i> 
 </p>
 
 <p align="center">
