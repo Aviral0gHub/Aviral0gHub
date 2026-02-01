@@ -54,9 +54,6 @@
 </p>
 
 ---
-[![@Aviral0gHub's Holopin board](https://holopin.io/api/user/board?user=Aviral0gHub)](https://holopin.io/@Aviral0gHub)
-
-
 
 ##  Research Interests
 - **Neural Networks:** Representation Learning & Sequence Models
@@ -74,6 +71,9 @@
   <a href="mailto:nigamaviral21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://holopin.io/api/user/board/last?user=aviral0ghub" alt="Latest Holopin" />
 </p>
 
 <p align="center">
