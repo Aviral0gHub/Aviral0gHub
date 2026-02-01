@@ -54,6 +54,9 @@
 </p>
 
 ---
+[![@Aviral0gHub's Holopin board](https://holopin.io/api/user/board?user=Aviral0gHub)](https://holopin.io/@Aviral0gHub)
+
+
 
 ##  Research Interests
 - **Neural Networks:** Representation Learning & Sequence Models
