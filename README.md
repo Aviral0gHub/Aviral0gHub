@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <i>Listening to Lofi music in the monsoon rains is a priceless therapyyy !!  !</i> 
+  <i>My therapy? Bollywood classics on a lofi beat while it rainss</i> 
 </p>
 
 <p align="center">
