@@ -48,13 +48,6 @@
 
 ---
 
-## GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aviral0gHub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ##  Research Interests
 - **Neural Networks:** Representation Learning & Sequence Models
 - **Vision:** Perception for Autonomous Systems
