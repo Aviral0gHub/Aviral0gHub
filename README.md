@@ -2,25 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; justify-content: space-between; margin-bottom: 25px;">
-  
-  <div style="flex: 1 1 420px; max-width: 100%;">
-    <h3>About Me</h3>
-    <ul>
-      <li><b>B.Tech Data Science student</b> at Manipal Institute of Technology, Manipal</li>
-      <li><b>Research Intern</b> at the Robotics Research Center (RRC), International Institute of Information Technology, Hyderabad</li>
-      <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Prof @ RRC, IIIT H)</li>
-      <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1 1 340px; max-width: 100%; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="100%" alt="Vibe GIF" style="border-radius: 8px; max-width: 480px; display: inline-block;" />
-  </div>
-
-</div>
-
-<br clear="both">
+<!-- Fixed Responsive Grid Layout -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>About Me</h3>
+      <ul>
+        <li><b>B.Tech Data Science student</b> at Manipal Institute of Technology, Manipal</li>
+        <li><b>Research Intern</b> at the Robotics Research Center (RRC), International Institute of Information Technology, Hyderabad</li>
+        <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Prof @ RRC, IIIT H)</li>
+        <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="right" style="border: none; padding-left: 15px;">
+      <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="100%" style="border-radius: 8px; max-width: 440px;" alt="Vibe GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
