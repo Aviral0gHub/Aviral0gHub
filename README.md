@@ -1,24 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=??+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="500" alt="Vibe GIF" />
-
-<div align="left">
+<div>
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="480" alt="Vibe GIF" style="margin-left: 15px; border-radius: 8px;" />
+  
   <h3>About Me</h3>
   <ul>
-    <li>B.Tech Data Science student at Manipal Institute of Technology, Manipal</li>
-    <li>Research Intern at the Robotics Research Center (RRC), International Institute of Information Technology , Hyderabad </li>
-    <li>Working under the guidance of Dr. Sourav Garg (Assistant Prof @ RRC, IIIT H)</li>
-    <li>Currently working on instance retrieval and visual representation learning for satellite imagery</li>
+    <li><b>B.Tech Data Science student</b> at Manipal Institute of Technology, Manipal</li>
+    <li><b>Research Intern</b> at the Robotics Research Center (RRC), International Institute of Information Technology, Hyderabad</li>
+    <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Prof @ RRC, IIIT H)</li>
+    <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
   </ul>
 </div>
 
 <br clear="both">
 
 ---
-## 🛠️ Tech Stack
+
+## ?? Tech Stack
 
 ### Deep Learning & Computer Vision
 <p align="left">
@@ -47,14 +47,14 @@
 
 ---
 
-##  Research Interests
+## ?? Research Interests
 - **Vision and Spatial AI:** Computer Vision, Remote Sensing, and Spatial Intelligence
-- **Deep Learning Architecture :** CNNs, Transformer, and Vision_Langugage Models
+- **Deep Learning Architectures:** CNNs, Transformers, and Vision-Language Models
 - **Experimentation:** Research-driven Deep Learning pipelines
 
 ---
 
-##  Connect with meee
+## ?? Connect with meee
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
