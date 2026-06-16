@@ -5,17 +5,17 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="500" alt="Vibe GIF" />
 
-  <div align="left">
-    <h3>About Me</h3>
-    <ul>
-      <li>Learning <b>Applied Deep Learning</b></li>
-      <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
-      <li>Passionate about <b>CV</b> Computer Vision, NLP and LLMs</li>
-      <li>Research Intern at the Robotics Research Center(RRC), International Institute of Information Technology, Hyderabad </li>
-      <li> Working under the guidance of Dr.Sourav Garg (Asst. Prof @ RRC,IIIT H) </li>
-    </ul>
-  </div>
-</p>
+<div align="left">
+  <h3>About Me</h3>
+  <ul>
+    <li>B.Tech Data Science student at Manipal Institute of Technology, Manipal</li>
+    <li>Research Intern at the Robotics Research Center (RRC), International Institute of Information Technology , Hyderabad</li>
+    <li>Working under the guidance of Dr. Sourav Garg</li>
+     <li>Currently working on instance retrieval and visual representation learning for satellite imagery</li>
+    <li>Research interests include Computer Vision, Remote Sensing, and Spatial Intelligence</li>
+    <li>Exploring deep learning methods based on CNNs, Transformers, and Vision-Language Models</li>
+  </ul>
+</div>
 
 <br clear="both">
 
