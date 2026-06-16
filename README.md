@@ -9,11 +9,9 @@
   <h3>About Me</h3>
   <ul>
     <li>B.Tech Data Science student at Manipal Institute of Technology, Manipal</li>
-    <li>Research Intern at the Robotics Research Center (RRC), International Institute of Information Technology , Hyderabad</li>
-    <li>Working under the guidance of Dr. Sourav Garg</li>
-     <li>Currently working on instance retrieval and visual representation learning for satellite imagery</li>
-    <li>Research interests include Computer Vision, Remote Sensing, and Spatial Intelligence</li>
-    <li>Exploring deep learning methods based on CNNs, Transformers, and Vision-Language Models</li>
+    <li>Research Intern at the Robotics Research Center (RRC), International Institute of Information Technology , Hyderabad </li>
+    <li>Working under the guidance of Dr. Sourav Garg (Assistant Prof @ RRC, IIIT H)</li>
+    <li>Currently working on instance retrieval and visual representation learning for satellite imagery</li>
   </ul>
 </div>
 
@@ -39,7 +37,7 @@
 
 ### Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java" /></a>
 </p>
 
 ### Environment & Tools
@@ -50,8 +48,8 @@
 ---
 
 ##  Research Interests
-- **Neural Networks:** Representation Learning & Sequence Models
-- **Vision:** Perception for Autonomous Systems
+- **Vision and Spatial AI:** Computer Vision, Remote Sensing, and Spatial Intelligence
+- **Deep Learning Architecture :** CNNs, Transformer, and Vision_Langugage Models
 - **Experimentation:** Research-driven Deep Learning pipelines
 
 ---
