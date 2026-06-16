@@ -10,8 +10,9 @@
     <ul>
       <li>Learning <b>Applied Deep Learning</b></li>
       <li>Focused on <b>CNNs, RNNs, & Transformers</b></li>
-      <li>Passionate about <b>CV</b> perception, NLP and LLMs</li>
-      <li>Currently working on a research oriented DL project</li>
+      <li>Passionate about <b>CV</b> Computer Vision, NLP and LLMs</li>
+      <li>Research Intern at the Robotics Research Center(RRC), International Institute of Information Technology, Hyderabad </li>
+      <li> Working under the guidance of Dr.Sourav Garg (Asst. Prof @ RRC,IIIT H) </li>
     </ul>
   </div>
 </p>
