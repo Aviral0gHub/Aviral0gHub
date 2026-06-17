@@ -3,20 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="360" alt="Vibe GIF" />
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" width="650" alt="Vibe GIF" />
 </p>
 
-<div align="left">
-  <h3>About Me</h3>
-  <ul>
-    <li><b>B.Tech Data Science student</b> at Manipal Institute of Technology, Manipal</li>
-    <li><b>Research Intern</b> at the Robotics Research Center, International Institute of Information Technology, Hyderabad</li>
-    <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Professor @ IIIT H)</li>
-    <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
-  </ul>
-</div>
+<br>
 
-<br clear="both">
+## 🧑‍💻 About Me
+* **B.Tech Data Science student** at Manipal Institute of Technology, Manipal
+* **Research Intern** at the Robotics Research Center, International Institute of Information Technology, Hyderabad
+* **Working under the guidance** of Dr. Sourav Garg (Assistant Professor @ IIIT H)
+* **Currently focusing on** instance retrieval and visual representation learning for satellite imagery
 
 ---
 
