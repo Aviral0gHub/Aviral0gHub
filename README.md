@@ -3,25 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="500" alt="Vibe GIF" />
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="360" alt="Vibe GIF" />
+</p>
 
 <div align="left">
   <h3>About Me</h3>
   <ul>
-  <ul>
-<ul>
-  <li><b>B.Tech Data Science student</b> at Manipal&nbsp;Institute&nbsp;of&nbsp;Technology,&nbsp;Manipal</li>
-  <li><b>Research Intern</b> @ Robotics Research Center, International&nbsp;Institute&nbsp;of&nbsp;Information&nbsp;Technology, Hyderabad&nbsp; </li>
-  <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant&nbsp;Professor&nbsp;@&nbsp;IIIT&nbsp;H)</li>
-  <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
-</ul>
-</ul>
+    <li><b>B.Tech Data Science student</b> at Manipal Institute of Technology, Manipal</li>
+    <li><b>Research Intern</b> at the Robotics Research Center, International Institute of Information Technology, Hyderabad</li>
+    <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Professor @ IIIT H)</li>
+    <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
   </ul>
 </div>
 
 <br clear="both">
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Deep Learning & Computer Vision
@@ -51,16 +49,16 @@
 
 ---
 
-##  Research Interests
+## 🔬 Research Interests
 - **Vision and Spatial AI:** Computer Vision, Remote Sensing, and Spatial Intelligence
-- **Deep Learning Architecture :** CNNs, Transformer, and Vision_Langugage Models
+- **Deep Learning Architecture:** CNNs, Transformers, and Vision-Language Models
 - **Experimentation:** Research-driven Deep Learning pipelines
 
 ---
 
-##  Connect with meee
+## 🤝 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
+  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -70,7 +68,7 @@
 </p>
 
 <p align="center">
-  <i>My therapy? Bollywood classics on a lofi beat while it rainss</i> 
+  <i>My therapy? Bollywood classics on a lofi beat while it rains 🌧️</i> 
 </p>
 
 <p align="center">
