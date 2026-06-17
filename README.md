@@ -10,8 +10,8 @@
   <ul>
   <ul>
   <li><b>B.Tech Data Science student</b> at <span style="white-space: nowrap;">Manipal&nbsp;Institute&nbsp;of&nbsp;Technology,&nbsp;Manipal&nbsp;</span></li>
-  <li><b>Research Intern</b> at the Robotics Research Center (RRC), <span style="white-space: nowrap;">International&&nbsp;nbsp;Institute&nbsp;of&nbsp;Information&nbsp;Technology&nbsp;, Hyderabad</span></li>
-  <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Professor @ IIIT H)</li>
+  <li><b>Research Intern</b> at the Robotics Research Center (RRC), <span style="white-space: nowrap;">International&nbsp;Institute&nbsp;of&nbsp;Information&nbsp;Technology&nbsp;, Hyderabad</span></li>
+  <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant&nbsp;Professor&nbsp;@ IIIT H)</li>
   <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
 </ul>
   </ul>
