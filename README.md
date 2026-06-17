@@ -1,18 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aviral+Nigam" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="500" alt="Vibe GIF" />
+  <img src="https://github.com/user-attachments/assets/033db43a-6153-47bd-b2d9-2f05fa6cd46f" align="right" width="500" alt="Vibe GIF" />
 
 <div align="left">
-  <h3>About Me</h3>
+  <h3>About Me</h3>
   <ul>
-  <li><b>B.Tech Data Science student</b> at Manipal&nbsp;Institute&nbsp;of&nbsp;Technology,&nbsp;Manipal</li>
-  <li><b>Research Intern</b> @ Robotics Research Center, International&nbsp;Institute&nbsp;of&nbsp;Information&nbsp;Technology, Hyderabad&nbsp; </li>
-  <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant&nbsp;Professor&nbsp;@&nbsp;IIIT&nbsp;H)</li>
-  <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
-  </ul>
+  <ul>
+  <li><b>B.Tech Data Science student</b> at <span style="white-space: nowrap;">Manipal Institute of Technology, Manipal</span></li>
+  <li><b>Research Intern</b> at the Robotics Research Center (RRC), <span style="white-space: nowrap;">International Institute of Information Technology, Hyderabad</span></li>
+  <li><b>Working under the guidance</b> of Dr. Sourav Garg (Assistant Professor @ IIIT H)</li>
+  <li><b>Currently focusing on</b> instance retrieval and visual representation learning for satellite imagery</li>
+</ul>
+  </ul>
 </div>
 
 <br clear="both">
@@ -22,53 +24,53 @@
 
 ### Deep Learning & Computer Vision
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros" /></a>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros" /></a>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48" />
 </p>
 
 ### Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java" /></a>
 </p>
 
 ### Environment & Tools
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,github,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,github,vscode" /></a>
 </p>
 
 ---
 
-##  Research Interests
+##  Research Interests
 - **Vision and Spatial AI:** Computer Vision, Remote Sensing, and Spatial Intelligence
 - **Deep Learning Architecture :** CNNs, Transformer, and Vision_Langugage Models
 - **Experimentation:** Research-driven Deep Learning pipelines
 
 ---
 
-##  Connect with meee
+##  Connect with meee
 <p align="center">
-  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:nigamaviral21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nigamaviral21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <i>My therapy? Bollywood classics on a lofi beat while it rainss</i> 
+  <i>My therapy? Bollywood classics on a lofi beat while it rainss</i> 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=60&section=footer" />
 </p>
