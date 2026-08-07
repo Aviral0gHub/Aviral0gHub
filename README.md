@@ -1,24 +1,12 @@
-<div align="center">
+# ⚡ Aviral Nigam
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=AVIRAL+NIGAM;Computer+Vision+%2B+ML+%2B+Agentic+AI;Research+Intern+@+IIIT+Hyderabad" alt="Typing Header" />
-  </a>
+> **Data Science & Engineering Undergraduate @ MIT Manipal** | **Robotics Research Center, IIIT Hyderabad**
 
-  <p align="center">
-    <b>Data Science & Engineering Undergraduate @ MIT Manipal</b> | <b>Robotics Research Center, IIIT-H</b>
-  </p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-101010?style=for-the-badge&logo=googlechrome&logoColor=00FF66)](https://aviral0ghub.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aviral-nigam-a0b469271)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nigamaviral21@gmail.com)
 
-  <p align="center">
-    <a href="https://aviral0ghub.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-101010?style=for-the-badge&logo=googlechrome&logoColor=00FF66" alt="Website"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-    <a href="mailto:nigamaviral21@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2c&height=80&section=header&text=Research%20%26%20Engineering%20Portfolio&fontSize=24&fontColor=00FF66" width="100%" alt="Header Banner" />
-
-</div>
-
-<br/>
+---
 
 ### 🎓 Profile Overview
 
@@ -80,11 +68,6 @@
 
 ### 📊 Activity Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral0gHub&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral0gHub&theme=algolia&hide_border=true" width="48%" alt="Streak Stats" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1f2c&height=80&section=footer" width="100%" alt="Footer" />
-</div>
+| **GitHub Statistics** | **Contribution Streak** |
+| :---: | :---: |
+| [![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviral0gHub&show_icons=true&theme=algolia&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aviral0gHub&theme=algolia&hide_border=true)](https://git.io/streak-stats) |
