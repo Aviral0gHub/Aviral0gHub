@@ -15,7 +15,7 @@
   </p>
 
   <!-- Waving Header Art -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header&text=Building%20Intelligent%20Visual%20%26%20Agentic%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header&text=Building%20Intelligent%20Visual%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
 
