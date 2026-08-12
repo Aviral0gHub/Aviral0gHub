@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Animated Header Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aviral+Nigam;Computer+Vision+%2B+ML+%2B+Agentic+AI;Research+Intern+@+RRC,+IIIT+Hyderabad" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aviral+Nigam;LLM+Factuality+%2B+Retrieval+%2B+CV;Co-Author,+Last+Translation+Benchmark" alt="Typing Header" />
 
   <p align="center">
-    <b>Data Science & Engineering Undergraduate @ MIT Manipal</b> &nbsp;|&nbsp; <b>Research Intern @ IIIT Hyderabad</b>
+    <b>Data Science & Engineering Undergraduate @ MIT Manipal</b>
   </p>
 
   <!-- Interactive Pill Badges -->
@@ -15,7 +15,7 @@
   </p>
 
   <!-- Waving Header Art -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header&text=Building%20Intelligent%20Visual%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header&text=Building%20Systems%20That%20Verify%20What%20They%20Claim&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -27,19 +27,19 @@
     <td width="55%" valign="top">
       <h3>Quick Overview</h3>
       <ul>
-        <li><b>Education:</b> B.Tech in Data Science & Engineering, MIT Manipal</li>
-        <li><b>Current Role:</b> Research Intern @ Robotics Research Center (RRC), IIIT-H</li>
-        <li><b>Advisor:</b> Dr. Sourav Garg</li>
-        <li><b>General Focus:</b> Intersection of <i>Computer Vision</i>, <i>Machine Learning</i>, & <i>Agentic AI</i></li>
+        <li><b>Education:</b> B.Tech in Data Science & Engineering, MIT Manipal (expected 2028)</li>
+        <li><b>Research:</b> Co-Author, <i>Last Translation Benchmark</i> (expected release Sept 2026)</li>
+        <li><b>Past Role:</b> Research Intern @ Robotics Research Center (RRC), IIIT-H, advised by Dr. Sourav Garg (May–Aug 2026)</li>
+        <li><b>General Focus:</b> LLM factuality & evaluation, retrieval systems, and computer vision</li>
         <li><b>Beyond Tech:</b> Playing keyboard (Bollywood classics)</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <h3>Core Focus Areas</h3>
       <ul>
+        <li><b>LLM Factuality & Agentic Reasoning:</b> Claim-level verification pipelines, retrieval-augmented evidence checking, and NLI-based entailment scoring.</li>
         <li><b>Computer Vision & Representation Learning:</b> Fine-grained visual instance retrieval, feature matching, and metric learning architectures.</li>
         <li><b>Machine Learning & Automated Pipelines:</b> End-to-end regression/classification pipelines, vector search (FAISS) indexing, and model evaluation.</li>
-        <li><b>Agentic & Multimodal AI:</b> Vision-language models, autonomous reasoning pipelines, and adversarial multimodal benchmarking.</li>
       </ul>
     </td>
   </tr>
@@ -51,12 +51,37 @@
 <h2 align="center">Research & Featured Projects</h2>
 
 <details open>
-  <summary><b>Robotics Research Center (RRC), IIIT Hyderabad</b> <i>— Research Internship</i></summary>
+  <summary><b>Last Translation Benchmark (LTB)</b> <i>— Multimodal Factuality Benchmark, Co-Author</i></summary>
+  <br/>
+  <p>
+    <a href="https://last-translation-benchmark.vilda.net/"><b>Project Site</b></a>
+  </p>
+  <ul>
+    <li>Co-authoring an upcoming multilingual, multimodal factuality benchmark with researchers from <b>ETH Zurich (Vilém Zouhar), JHU, CUNI, UvA, and KIT</b>. Expected release: September 2026.</li>
+    <li>Contributed adversarial multimodal inputs specifically designed to break state-of-the-art vision-language models.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>FactTrace</b> <i>— Claim-Level Factuality Verification Pipeline</i></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/Aviral0gHub/facttrace"><b>View Project Repository on GitHub</b></a>
+  </p>
+  <ul>
+    <li>Built a pipeline that decomposes agentic LLM reasoning traces into atomic claims, retrieves evidence via FAISS-based dense retrieval, and classifies each claim as supported, contradicted, or unverifiable using NLI-based entailment scoring.</li>
+    <li>Improved claim-level accuracy from 78.5% (lexical baseline) to 87.7% by replacing regex-based heuristics with dense retrieval and RoBERTa-large-MNLI entailment scoring, evaluated on a 65-claim curated benchmark.</li>
+    <li>Failure analysis showed unsupported claims concentrate disproportionately in later reasoning steps, surfacing where agentic reasoning chains drift from grounded evidence.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Robotics Research Center (RRC), IIIT Hyderabad</b> <i>— Research Internship (May–Aug 2026)</i></summary>
   <br/>
   <ul>
-    <li>Building deep neural pipelines for fine-grained visual instance retrieval across large-scale datasets.</li>
-    <li>Implementing high-throughput vector search (FAISS) for efficient image indexing and feature retrieval.</li>
-    <li>Engineering automated embedding extraction & normalization pipelines for metric learning architectures.</li>
+    <li>Researched fine-grained visual instance retrieval, building deep neural pipelines across large-scale datasets.</li>
+    <li>Implemented high-throughput vector search (FAISS) for efficient image indexing and feature retrieval.</li>
+    <li>Engineered automated embedding extraction & normalization pipelines for metric learning architectures.</li>
   </ul>
 </details>
 
@@ -72,7 +97,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>Multi-Class Land Cover Classification</b> <i>— Computer Vision & Transfer Learning</i></summary>
   <br/>
   <p>
@@ -84,18 +109,6 @@
   </ul>
 </details>
 
-<details open>
-  <summary><b>Last Translation Benchmark (LTB)</b> <i>— Multimodal Research Contribution</i></summary>
-  <br/>
-  <p>
-    <a href="https://last-translation-benchmark.vilda.net/dashboard"><b>Live Benchmark Dashboard Track</b></a>
-  </p>
-  <ul>
-    <li>Contributor to the upcoming publication organized by researchers from <b>ETH Zurich (Vilém Zouhar), JHU, CUNI, UvA, and KIT</b>.</li>
-    <li>Contributed adversarial multimodal inputs specifically designed to evaluate and challenge state-of-the-art vision-language models.</li>
-  </ul>
-</details>
-
 <br/>
 
 <!-- ==================== TECH STACK MATRIX ==================== -->
@@ -103,11 +116,19 @@
 
 <table align="center" width="100%">
   <tr>
+    <td width="25%"><b>NLP & LLM Evaluation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Sentence--Transformers-6A5ACD?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/NLI_%2F_Entailment-6A5ACD?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
     <td width="25%"><b>DL & Computer Vision</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=facebook&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" />
       <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
     </td>
   </tr>
