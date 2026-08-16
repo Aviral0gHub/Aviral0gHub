@@ -11,7 +11,8 @@
   <p align="center">
     <a href="https://aviral0ghub.github.io/"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=googlechrome&logoColor=4CAF50" alt="Website"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="mailto:nigamaviral21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="mailto:nigamaviral21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    <a href="https://github.com/Aviral0gHub/Aviral0gHub/raw/main/Aviral_Nigam_Resume.pdf"><img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
   </p>
 
   <!-- Waving Header Art -->
@@ -72,6 +73,18 @@
     <li>Built a pipeline that decomposes agentic LLM reasoning traces into atomic claims, retrieves evidence via FAISS-based dense retrieval, and classifies each claim as supported, contradicted, or unverifiable using NLI-based entailment scoring.</li>
     <li>Improved claim-level accuracy from 78.5% (lexical baseline) to 87.7% by replacing regex-based heuristics with dense retrieval and RoBERTa-large-MNLI entailment scoring, evaluated on a 65-claim curated benchmark.</li>
     <li>Failure analysis showed unsupported claims concentrate disproportionately in later reasoning steps, surfacing where agentic reasoning chains drift from grounded evidence.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>CalibCheck</b> <i>— LLM Confidence Calibration Analysis</i></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/Aviral0gHub/calibcheck"><b>View Project Repository on GitHub</b></a>
+  </p>
+  <ul>
+    <li>Built a calibration analysis pipeline measuring whether an LLM's confidence tracks its actual accuracy, comparing verbalized self-reported confidence against raw next-token probability using Expected Calibration Error, Brier score, and reliability diagrams across 6 topic domains.</li>
+    <li>Found Qwen2.5-0.5B-Instruct overconfident by 14.3 points on average (ECE = 0.14) on a 60-question benchmark, with domain-specific miscalibration reaching 57.5 points on sports questions (30% actual accuracy vs. 87.5% stated confidence).</li>
   </ul>
 </details>
 
