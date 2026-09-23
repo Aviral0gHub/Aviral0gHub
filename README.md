@@ -1,22 +1,17 @@
-<p align="center">
-  <img src="./assets/rainy-room-static.jpg" width="560" alt="A rainy glass room with a piano, coffee, and an open laptop" />
-</p>
+<img align="right" src="./assets/rainy-room-static.jpg" width="340" alt="A rainy glass room with a piano, coffee, and an open laptop" />
 
-<h1 align="center">Aviral Nigam</h1>
+# Aviral Nigam
 
-<p align="center">
-  Empirical AI safety · LLM evaluation · Reasoning faithfulness · Calibration
-</p>
+**Empirical AI safety · LLM evaluation**  
+Reasoning faithfulness · Calibration
 
-<p align="center">
-  <a href="https://aviral0ghub.github.io/">Website</a> ·
-  <a href="https://www.linkedin.com/in/aviral-nigam-a0b469271/">LinkedIn</a> ·
-  <a href="mailto:nigamaviral21@gmail.com">Email</a>
-</p>
-
----
+[Website](https://aviral0ghub.github.io/) · [LinkedIn](https://www.linkedin.com/in/aviral-nigam-a0b469271/) · [Email](mailto:nigamaviral21@gmail.com)
 
 I study whether an AI system's reasoning and confidence deserve trust—and build evaluations that expose where they do not.
+
+<br clear="right" />
+
+---
 
 ### Selected work
 
