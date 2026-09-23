@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/rainy-room.webp" width="720" alt="A rainy glass room with a piano, coffee, and an open laptop" />
+  <img src="./assets/rainy-room-static.jpg" width="560" alt="A rainy glass room with a piano, coffee, and an open laptop" />
 </p>
 
 <h1 align="center">Aviral Nigam</h1>
